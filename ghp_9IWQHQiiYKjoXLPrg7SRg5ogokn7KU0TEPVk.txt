@@ -1,0 +1,174 @@
+Ссылка на профиль: https://github.com/ZalthorfslO8
+Email: ronaldomosciski25368@gmail.com
+Пароль от аккаунта: *0zN-+=rF@5
+Proxy Host: 74.81.81.81
+Proxy Port: 11393
+Proxy Username: d7ddcc1b0936f0cf9c7f
+Proxy Password: d3da5039f20843e0
+Cookies:
+[
+    {
+        "domain": "github.com",
+        "httpOnly": true,
+        "name": "_gh_sess",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "2F0UA0zxH4zpPI5WgTIOwM6mrketO8mO7BneiK3VUGhxlZwZ1aTmRIwnxFg574liPzlzpgHz4rYj8k5rGIBX5gDmBA90ym6pNJw4qBo1jqsnZKfyEGoUXgoyG3BX1gQuQFiUCfODqmk4LGjFQP2NXPmULIpTgEbAa3uHtGFduqaIaUDISjz%2FYNGCSO8Sm4pPcBFCaPv4%2Bce5tfsGqsS8OXshYl4niNRfCqndetzhCYXXNVeSwlgxsOtxAAsNzBAzz8IYl2Cj8PL1m2PExpR%2FldSE9NqzbHVgoC3rI%2FARIktHO6SHgyeAUOmJl%2FjuFeYhF4bUj9YPKQWZaLZg%2F6KK6HD%2BOPLZeIAdN2u%2BVztiZYvZU%2BCtxVZqcszpk86w%2Be0Cp7i49p%2B16Dr6RRMB9Z5fRieWRdPzpffIvEAtwOy84moOBVmk5bpp4REMJvsK6V66wJdma5luPJq8nkZHwMQweGgjQxYKkouN0HafjNXIMOQHP%2B6n3qHceXBzqMNbqG%2BOkzeP4YDqHDy2Ei6gWD2SVk0QhSpkDP3nhT%2B8J3bzBCeS%2FGrj0FimwEl%2FyEhmkar8%2BlzLzSRo1lIMRIHYN7RH2jbqGXsieqvbBO5Z1BLIBD5uotPP%2FA54Jb62Hy%2FJq2BOYCRDON2bVhJCmDprbqBqhy%2FcNYM3ufRm%2BlV%2BXUWsjK47qXCrQzoTMVS8GoBR%2BjMJTLwjFrXFa5VVIYx0qccCP%2Fd%2Bcm0%3D--1sHOvhXRrzR%2F%2FpGQ--U8YkbDkM%2FRwxqfWiVpk%2FnA%3D%3D"
+    },
+    {
+        "domain": ".github.com",
+        "expiry": 1788468830,
+        "httpOnly": true,
+        "name": "logged_in",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "yes"
+    },
+    {
+        "domain": ".github.com",
+        "httpOnly": false,
+        "name": "color_mode",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D"
+    },
+    {
+        "domain": "github.com",
+        "expiry": 1758142430,
+        "httpOnly": true,
+        "name": "user_session",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "PWoMtvcjd797PyxYT-UK9p7gf1Yz8hLBLXnrpj72Ioi_ODnk"
+    },
+    {
+        "domain": "github.com",
+        "expiry": 1764712430,
+        "httpOnly": true,
+        "name": "saved_user_sessions",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "230247521%3APWoMtvcjd797PyxYT-UK9p7gf1Yz8hLBLXnrpj72Ioi_ODnk"
+    },
+    {
+        "domain": "github.com",
+        "expiry": 1788468756,
+        "httpOnly": false,
+        "name": "MSFPC",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "GUID=00ab678352484cb097e47bb641f31b1a&HASH=00ab&LV=202509&V=4&LU=1756932750457"
+    },
+    {
+        "domain": ".github.com",
+        "expiry": 1788468830,
+        "httpOnly": true,
+        "name": "dotcom_user",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "ZalthorfslO8"
+    },
+    {
+        "domain": ".github.com",
+        "expiry": 1772484746,
+        "httpOnly": false,
+        "name": "GHCC",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "Required:1-Analytics:1-SocialMedia:1-Advertising:1"
+    },
+    {
+        "domain": "github.com",
+        "expiry": 1788468823,
+        "httpOnly": false,
+        "name": "MicrosoftApplicationsTelemetryDeviceId",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "8d5240ae-48aa-42f4-b2cd-ae1e0d1c9f2d"
+    },
+    {
+        "domain": "github.com",
+        "expiry": 1788468819,
+        "httpOnly": true,
+        "name": "_device_id",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "d47db518a9511dbc0f5da52aa751beb3"
+    },
+    {
+        "domain": ".github.com",
+        "httpOnly": false,
+        "name": "tz",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "Europe%2FKiev"
+    },
+    {
+        "domain": "github.com",
+        "httpOnly": true,
+        "name": "tz",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "Europe%2FKiev"
+    },
+    {
+        "domain": ".github.com",
+        "httpOnly": false,
+        "name": "preferred_color_mode",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "dark"
+    },
+    {
+        "domain": ".github.com",
+        "httpOnly": false,
+        "name": "cpu_bucket",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "xlg"
+    },
+    {
+        "domain": "github.com",
+        "expiry": 1758142430,
+        "httpOnly": true,
+        "name": "__Host-user_session_same_site",
+        "path": "/",
+        "sameSite": "Strict",
+        "secure": true,
+        "value": "PWoMtvcjd797PyxYT-UK9p7gf1Yz8hLBLXnrpj72Ioi_ODnk"
+    },
+    {
+        "domain": ".github.com",
+        "expiry": 1756934623,
+        "httpOnly": false,
+        "name": "ai_session",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "y3Ipd4TjpWOXBQhqjDfIVr|1756932747988|1756932823490"
+    },
+    {
+        "domain": ".github.com",
+        "expiry": 1788468736,
+        "httpOnly": false,
+        "name": "_octo",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "GH1.1.1410390485.1756932734"
+    }
+]
